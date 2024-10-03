@@ -1,0 +1,13 @@
+{
+    "configuration": "default",
+    "documentId": "90da21a3b14c2fa20f5f9d7e",
+    "documentMicroversion": "10cd3da0a9de17d018b60314",
+    "elementId": "6c4815d34ee8b71c55d82de0",
+    "fullConfiguration": "default",
+    "id": "M1g5Cq/hhxccUEo2k",
+    "isStandardContent": false,
+    "name": "wrist_pitch <1>",
+    "partId": "JND",
+    "suppressed": false,
+    "type": "Part"
+}
